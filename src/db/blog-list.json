@@ -1,0 +1,18 @@
+[
+  {
+    "img": "/src/assets/images/blogImg1.png",
+    "tag": "UX/UI"
+  },
+  {
+    "img": "/src/assets/images/blogImg2.png",
+    "tag": "React"
+  },
+  {
+    "img": "/src/assets/images/blogImg3.png",
+    "tag": "PHP"
+  },
+  {
+    "img": "/src/assets/images/blogImg4.png",
+    "tag": "JavaScript"
+  }
+]

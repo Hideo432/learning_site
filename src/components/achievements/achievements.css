@@ -1,0 +1,22 @@
+.achievements__block {
+  padding-bottom: 131px;
+}
+.acievements__text {
+  text-align: center;
+}
+.achievements__details {
+  padding-top: 101px;
+  display: flex;
+  justify-content: center;
+  gap: 96px;
+}
+.achievements__details__item {
+}
+.acievements__details__info {
+  text-align: center;
+  font-size: 96px;
+  color: transparent;
+  -webkit-background-clip: text;
+  background-clip: text;
+  background-image: linear-gradient(to right, #2f6cb0 5%, #1badbe 90%);
+}

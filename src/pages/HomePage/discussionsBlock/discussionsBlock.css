@@ -1,0 +1,8 @@
+.discussionBlock__container {
+  position: relative;
+  margin-top: 145px;
+  display: flex;
+  gap: 191px;
+  padding: 0 253px 0 191px;
+  margin-bottom: 50px;
+}

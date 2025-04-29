@@ -1,0 +1,66 @@
+[
+  {
+    "id": 1,
+    "title": "fdsf sdfsdf",
+    "description": "Cfhgfh gf hgfh",
+    "rating": 5,
+    "price": 450,
+    "image": "/src/assets/images/book_recipe.jpg"
+  },
+  {
+    "id": 2,
+    "title": "dsfsd",
+    "description": "fsdfsdf sdfsdfdsfsdf",
+    "rating": 2,
+    "price": 450,
+    "image": "/src/assets/images/book_recipe.jpg"
+  },
+  {
+    "id": 3,
+    "title": "sdfsdg",
+    "description": "fsdf sd fsdfsdf",
+    "rating": 3.5,
+    "price": 450,
+    "image": "/src/assets/images/book_recipe.jpg"
+  },
+  {
+    "id": 4,
+    "title": "asdasfg",
+    "description": " FSD FASDAdsfsd  dsafsdf",
+    "rating": 2.5,
+    "price": 450,
+    "image": "/src/assets/images/book_recipe.jpg"
+  },
+  {
+    "id": 5,
+    "title": "hdsfdsgh",
+    "description": " gfdg dfs sdf ad ADW DA",
+    "rating": 5,
+    "price": 450,
+    "image": "/src/assets/images/book_recipe.jpg"
+  },
+  {
+    "id": 6,
+    "title": "gjfdgl;",
+    "description": " fds fsd fsdfsdf sdfsd",
+    "rating": 4,
+    "price": 450,
+    "image": "/src/assets/images/book_recipe.jpg"
+  },
+  {
+    "id": 7,
+    "title": "glpdfkm",
+    "description": "sdklfjsdlkvlsdkc",
+    "rating": 5,
+    "price": 450,
+    "image": "/src/assets/images/book_recipe.jpg"
+  },
+  {
+    "id": 8,
+    "title": "vnmbcvn",
+    "description": "vlpsd dsf sd f f",
+    "rating": 4,
+    "price": 450,
+    "image": "/src/assets/images/book_recipe.jpg"
+  }
+]

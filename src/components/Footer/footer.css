@@ -1,0 +1,55 @@
+.footer {
+  background-color: #252641;
+  position: relative;
+  text-align: center;
+
+  padding: 76px 0 40px 0;
+}
+.footer-span {
+  content: "";
+  background-color: #626381;
+  position: relative;
+  height: 83px;
+  width: 1px;
+}
+.footer-logo {
+  margin-right: 79px;
+}
+.footer-email-input {
+  background-color: #ffffff00;
+  border: 1px solid #83839a;
+  border-radius: 30px;
+  padding: 0 0px 0 31px;
+  width: 400px;
+  height: 60px;
+  font-size: 20px;
+  outline: none;
+  color: #ffffff;
+  font-size: 22px;
+}
+.footer-email-input::placeholder {
+  color: #83839a;
+}
+
+.footer-btn {
+  background-color: #49bbbd;
+  border: none;
+  position: relative;
+  width: 179px;
+  height: 60px;
+  color: #ffffff;
+  font-size: 22px;
+  border-radius: 30px;
+  cursor: pointer;
+  -webkit-box-shadow: 0px 13px 53px -10px rgba(47, 50, 167, 1);
+  -moz-box-shadow: 0px 13px 53px -10px rgba(47, 50, 167, 1);
+  box-shadow: 0px 13px 53px -10px rgba(47, 50, 167, 1);
+}
+.footer-ul-span {
+  content: "";
+  background-color: #626381;
+  width: 1px;
+  height: 17px;
+  position: relative;
+  margin: 0 20px;
+}

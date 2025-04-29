@@ -1,0 +1,28 @@
+.newsBlock-section {
+  margin-top: 251px;
+  position: relative;
+  display: flex;
+  padding: 0 200px 115px 163px;
+  column-gap: 120px;
+  row-gap: 50px;
+}
+.news-tag {
+  background-color: #49bbbd;
+  border-radius: 20px;
+  text-transform: uppercase;
+  letter-spacing: 2%;
+  padding: 8px 22px;
+  position: absolute;
+  color: #ffffff;
+  bottom: 20px;
+  right: 20px;
+}
+.news-tag-main {
+  background-color: #49bbbd;
+  border-radius: 20px;
+  text-transform: uppercase;
+  letter-spacing: 2%;
+  padding: 8px 36px;
+  position: relative;
+  color: #ffffff;
+}

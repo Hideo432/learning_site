@@ -1,0 +1,115 @@
+.video-fullScreen-button {
+  width: 30px;
+  height: 30px;
+  cursor: pointer;
+}
+.video-soung-button {
+  width: 30px;
+  height: 30px;
+  cursor: pointer;
+}
+.homepage__videoPlayer:hover .homepage__videoBar {
+  display: flex;
+}
+.video-duration {
+  color: #ffffff;
+}
+.videoBar-play-button {
+  width: 30px;
+  height: 30px;
+  cursor: pointer;
+}
+.homepage__videoBar {
+  display: none;
+  justify-content: space-between;
+  border-radius: 0 0 25px 25px;
+  background-color: #000000;
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  z-index: 6;
+  box-shadow: 0px -25px 47px 4px rgba(0, 0, 0, 0.58);
+  -webkit-box-shadow: 0px -25px 47px 4px rgba(0, 0, 0, 0.58);
+  -moz-box-shadow: 0px -25px 47px 4px rgba(0, 0, 0, 0.58);
+}
+
+.homepage__video {
+  width: 705px;
+  background-color: black;
+  position: relative;
+  top: 50%;
+  transform: translateY(-50%);
+  height: 471px;
+  border-radius: 20px;
+}
+.homepage__video-back {
+  position: absolute;
+  left: 0;
+  z-index: 5;
+  height: 100%;
+  width: 300px;
+  cursor: pointer;
+}
+.homepage__video-forward {
+  position: absolute;
+  right: 0;
+  z-index: 5;
+  height: 100%;
+  width: 300px;
+}
+.homepage__video-rectTop {
+  position: absolute;
+  top: -20px;
+  left: -20px;
+  border-radius: 20px;
+  content: "";
+  display: block;
+  width: 138px;
+  height: 138px;
+  background-color: #23bdee;
+}
+.homepage__videoPlayer:hover .homepage__video-play {
+  display: block;
+}
+.homepage__video-rectBottom {
+  position: absolute;
+  bottom: -15px;
+  right: -20px;
+  border-radius: 20px;
+  content: "";
+  display: block;
+  width: 231px;
+  height: 231px;
+  background-color: #33efa0;
+}
+.homepage__video-play {
+  display: none;
+  min-width: 25px;
+  min-height: 25px;
+  padding: 23px;
+  background-color: #ffffff;
+  position: absolute;
+  border-radius: 50px;
+  top: 50%;
+  left: 50%;
+  background-position: center;
+  transform: translate(-50%, -50%);
+  z-index: 2;
+  background-repeat: no-repeat;
+  background-size: 35px 35px cover;
+}
+
+.progress-bar__container {
+  width: 400px;
+  background-color: #a6a6a6;
+
+  overflow: hidden;
+  height: 10px;
+  cursor: pointer;
+}
+.progress-bar {
+  height: 100%;
+  background-color: turquoise;
+  transition: width 0.1s ease-in-out;
+  z-index: 10;
+}

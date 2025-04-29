@@ -1,0 +1,31 @@
+[
+  {
+    "title": "Class adds $30 million to its balance sheet for a Zoom-friendly edtech solution",
+    "tag": "News",
+    "description": "Class, launched less than a year ago by Blackboard co-founder Michael Chasen, integrates exclusively...",
+    "img": "/src/assets/images/mainNewsImg.png",
+    "main": true
+  },
+  {
+    "title": "Class Technologies Inc. Closes $30 Million Series A Financing to Meet High Demand",
+    "tag": "press release",
+    "description": "Class Technologies Inc., the company that created Class,...",
+    "img": "/src/assets/images/newsImg1.png",
+    "main": false
+  },
+
+  {
+    "title": "Zoom’s earliest investors are betting millions on a better Zoom for schools",
+    "tag": "News",
+    "description": "Zoom was never created to be a consumer product. Nonetheless, the...",
+    "img": "/src/assets/images/newsImg1.png",
+    "main": false
+  },
+  {
+    "title": "Former Blackboard CEO Raises $16M to Bring LMS Features to Zoom Classrooms",
+    "tag": "News",
+    "description": "This year, investors have reaped big financial returns from betting on Zoom...",
+    "img": "/src/assets/images/newsImg2.png",
+    "main": false
+  }
+]
